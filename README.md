@@ -1,22 +1,9 @@
-# 📊 Project: Complex API 2
+# 📊 Project: Book Recommendations
+### Goal: Enter a keyword to receive a book recommendation along with information about the time it was published
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+https://htmlpreview.github.io/?https://github.com/kezthom/complex-api2/blob/answer/index.html
 
-### How to submit your code for review:
+<img width="1410" alt="Screenshot 2023-11-07 at 4 54 56 PM" src="https://github.com/kezthom/complex-api2/assets/137250400/2b12564a-26d2-4d61-904e-25118816b28c">
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+### Tech Used: HTML, CSS, JS
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
